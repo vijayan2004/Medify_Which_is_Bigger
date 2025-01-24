@@ -108,4 +108,6 @@ For local development, create a `.env` file in the project root:
 ```
 GEMINI_API_KEY=your_api_key_here
 ```
+### Screenshot
 
+![Result](result.png)
